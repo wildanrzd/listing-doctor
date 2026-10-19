@@ -1,0 +1,4 @@
+.etsy-key
+reports/
+__pycache__/
+*.pyc
